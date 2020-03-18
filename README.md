@@ -1,9 +1,9 @@
 # ICN-Model
-This project implementated the analytical models for estimating the delay distribution and storage ratio, which ara proposed in following paper:
+This project implementated the analytical models for estimating the delay distribution and storage ratio, which are proposed in following papers:
 
-**J. Yang**, Y. Sun, and J. Requena Carrion, ``An Analytical Model for Information Centric Internet of Things Networks in Opportunistic Scenarios,'' *IEEE Systems Journal*, 2019, pp. 1-12.
+J. Yang, Y. Sun, and J. Requena Carrion, ``An Analytical Model for Information Centric Internet of Things Networks in Opportunistic Scenarios,'' *IEEE Systems Journal*, 2019, pp. 1-12.
 
-**J. Yang**, Y. Sun, and J. Requena Carrion, ``Modelling the Delay Distribution of Information Centric Delay Tolerant Networks in Disaster Area, ''  *in Proc. of ACM MobileHealth 2017 (MobileHealth'2017)*, Chennai, India, Jul. 2017, pp. 1-6.
+J. Yang, Y. Sun, and J. Requena Carrion, ``Modelling the Delay Distribution of Information Centric Delay Tolerant Networks in Disaster Area, ''  *in Proc. of ACM MobileHealth 2017 (MobileHealth'2017)*, Chennai, India, Jul. 2017, pp. 1-6.
 
 This scripts also contains the code for processing data obatained from simulation, comparing the analytical model and simulated data and generating diagrams for paper publication. 
 
