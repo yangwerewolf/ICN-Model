@@ -7,6 +7,5 @@ This project implementated the analytical models for estimating the delay distri
 
 This scripts also contains the code for processing data obatained from simulation, comparing the analytical model and simulated data and generating diagrams for paper publication. 
 
-The main scrpit is the storage_v3.mlx which is the MATLAB live script file. Setup the directories of data files and initial parameters, the script will do the rest of things.
+The main scrpit is the storage_v3.mlx which is the MATLAB live script file. Setup the directories of data files and initial parameters, the script will do the rest of things. Functions used for different purpose are also included. 
 
-Functions used for different purpose are also included. 
